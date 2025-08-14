@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm current building project on -<br>React JS(styling using Tailwind CSS)<br>Express JS<br>MongoDB<br><br><br><br>
+I'm current building project on -<br>React JS(styling using Tailwind CSS)<br>Express JS<br>MongoDB<br><br>
 
 
 ## 🌐 Socials:
